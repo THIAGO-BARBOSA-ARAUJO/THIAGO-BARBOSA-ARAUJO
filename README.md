@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px">Ea ai galera! Eu sou o Thiago <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px"></h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px">Ea ai galera! Eu sou o Thiago!
 
 &nbsp;&nbsp; :mage: Sou um Programador Web de 26 anos do Rio de Janeiro, Brasil \
 &nbsp;&nbsp; :peacock: No momento estou estudando Desenvolvimento Web\
