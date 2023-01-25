@@ -1,10 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px">Ea ai galera! Eu sou o Thiago <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px"></h1>
 
-<table align="right">
- <tr><td><a href="README.md">:us: English</a></td></tr>
- <tr><td><a href="README_pt.md">:brazil: Português</a></td></tr>
-</table>
-
 &nbsp;&nbsp; :mage: Sou um Programador Web de 26 anos do Rio de Janeiro, Brasil \
 &nbsp;&nbsp; :peacock: No momento estou estudando Desenvolvimento Web\
 &nbsp;&nbsp; :dog2: Gosto muito de passar minhas horas do dia programando! \
