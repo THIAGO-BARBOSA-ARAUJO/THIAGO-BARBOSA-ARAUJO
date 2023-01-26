@@ -1,17 +1,17 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px">Ea ai galera! Eu sou o Thiago!</h1>
 
-&nbsp;&nbsp; :mage: Sou um Programador Web de 26 anos do Rio de Janeiro, Brasil \
-&nbsp;&nbsp; :peacock: No momento estou estudando Desenvolvimento Web\
-&nbsp;&nbsp; :dog2: Gosto muito de passar minhas horas do dia programando! \
-&nbsp;&nbsp; :speech_balloon: Outro passa tempo meu é lutar kung fu \
+&nbsp;&nbsp; :boy: Sou um Programador Web de 26 anos do Rio de Janeiro, Brasil \
+&nbsp;&nbsp; :student: No momento estou estudando Desenvolvimento Web\
+&nbsp;&nbsp; :technologist: Gosto muito de passar minhas horas do dia programando! \
+&nbsp;&nbsp; :ninja: Outro passa tempo meu é lutar kung fu \
 &nbsp;&nbsp; :cherry_blossom: Pretendo muito embreve aprender Japonês :jp: \
-&nbsp;&nbsp; :speech_balloon: Sempre que quiserem mandem mensagens (Adoro fazer novos amigos)
+&nbsp;&nbsp; :speech_balloon: Sempre que quiserem mandem mensagens (Adoro fazer novos amigos):
 
 <p align="center">
   <a href="mailto:thiagobarbosa.araujo21@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
   </a>&nbsp;
-  <a href="https://www.linkedin.com/in/thiagobarbosaaraujo/">
+  <a href="https://www.linkedin.com/in/thiago-araujo-a96268114/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;
   <a href="/">
@@ -35,7 +35,13 @@
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-            
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Reroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![NGINX](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![DOCKER](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![LINUX](https://img.shields.io/badge/Linux-3A33D1?style=for-the-badge&logo=linux&logoColor=black)
           
 
 
