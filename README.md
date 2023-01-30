@@ -1,7 +1,7 @@
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px">Ea ai galera! Eu sou o Thiago!</h1>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1643514389/3643/cool-doge.gif?1643514389" height="36px">E a ai galera! Eu sou o Thiago!</h1>
 
 &nbsp;&nbsp; :boy: Sou um Programador Web de 26 anos do Rio de Janeiro, Brasil \
-&nbsp;&nbsp; :student: No momento estou estudando Desenvolvimento Web\
+&nbsp;&nbsp; :student: Me formei na Driven Education\
 &nbsp;&nbsp; :technologist: Gosto muito de passar minhas horas do dia programando! \
 &nbsp;&nbsp; :ninja: Outro passa tempo meu é lutar kung fu \
 &nbsp;&nbsp; :cherry_blossom: Pretendo muito embreve aprender Japonês :jp: \
